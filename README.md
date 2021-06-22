@@ -12,4 +12,7 @@
    >  ~/new$ cd team_project/
 ### 6.   새터미널 창을 열어 Elasticsearch 디렉토리로 이동 후 실행한다.
    > ~$ cd elasticsearch-7.6.2/
-   > 
+   > ~/elasticsearch-7.6.2$ ./bin/elasticsearch
+### 7.   첫번째 터미널 창으로 돌아와서 app.py를 실행한다.
+   >> ~/new/team_project$ ./app.py
+### 8.   인터넷 브라우저 창을 키고 주소창에 http//127.0.0.1:5000/을 입력해 접속한다.
